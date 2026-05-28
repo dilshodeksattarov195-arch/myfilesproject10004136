@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterdpdate",
+        "uuid": 19203448,
+        "checksum": "o7hwt8"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
